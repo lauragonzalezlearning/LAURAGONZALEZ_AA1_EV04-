@@ -1,5 +1,5 @@
 <?php
 
-echo "soy el segundo archivo";
+echo "soy el segundo archivo localmente";
 
 ?>
