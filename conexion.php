@@ -4,7 +4,7 @@ $localhost = "localhost";
 $BaseDatos = "bdaprendiz";
 $usuario = "root";
 $password = "";
-
+$password = "123456789";
 try {
     //code...
 
